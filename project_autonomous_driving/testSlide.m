@@ -1,0 +1,12 @@
+frame_rate = 1;
+drawSlide('um_000000', 'slide_road_1', frame_rate);
+drawSlide('um_000000', 'slide_road_2', frame_rate);
+drawSlide('um_000000', 'slide_road_3', frame_rate);
+drawSlide('um_000000', 'slide_object_1', frame_rate);
+drawSlide('um_000000', 'slide_object_2', frame_rate);
+drawSlide('um_000000', 'slide_object_35', frame_rate);
+drawSlide('um_000000', 'slide_object_4', frame_rate);
+drawSlide('um_000000', 'slide_title_1', frame_rate);
+drawSlide('um_000000', 'slide_title_2', frame_rate);
+drawSlide('um_000000', 'slide_title_3', frame_rate);
+drawSlide('um_000000', 'slide_title_4', frame_rate);
